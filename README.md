@@ -1,10 +1,11 @@
 ## Dataset Overview
 
-### Source
+### Description
 
-The dataset used for analysis was sourced from Reddit, which, after
+The dataset used for sentimentanalysis was sourced from Reddit, which, after
 removing missing or problematic values and non-English contents,
-contains a total of 1,169 posts and 6,571 comments.
+contains a total of 1,169 posts and 6,571 comments. It has been de-identified 
+for ethical reasons.
 
 ### Time span
 
